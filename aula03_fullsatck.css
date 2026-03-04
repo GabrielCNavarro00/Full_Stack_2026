@@ -1,0 +1,21 @@
+#do {border-style: dotted;}
+#da {border-style: dashed}
+#so {border-style: solid;}
+#db {border-style: double;}
+#gr {border-style: groove;}
+#ri {border-style: ridge;}
+
+#ex{
+font-size: 16px;
+width: 50px;
+height: 10px;
+margin: 20px;
+border-radius: 100px;
+padding: 20px;
+border: solid blue;
+box-shadow: 20px 10px black;
+}
+
+p{display: block}
+a{display: inline;}
+
